@@ -358,4 +358,4 @@ Algunas ideas para extender el proyecto:
 * **Autor del proyecto**: Rodrigo Mendoza.
 * **Asignatura**: Tecnología de la Programación.
 * **Universidad**: Universidad Complutense de Madrid.
-* Inspirado en el clásico **Lemmings (1991)** de DMA Design / Psygnosis. ([Wikipedia][1])
+* Inspirado en el clásico **Lemmings (1991)** de DMA Design / Psygnosis.
